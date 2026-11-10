@@ -38,5 +38,3 @@ The project emphasises:
 
 **Tetuan City power consumption** — a public dataset of hourly electricity
 consumption for three city zones together with weather covariates.
-
-Expected file name:
